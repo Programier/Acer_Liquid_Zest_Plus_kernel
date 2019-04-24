@@ -1,0 +1,3 @@
+config MTK_AP3426
+	bool "AP3426 for MediaTek package"
+	default n
